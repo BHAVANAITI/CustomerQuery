@@ -9,7 +9,6 @@ WORKDIR /app
 RUN pip install chatterbot 
 RUN pip install flask 
 RUN pip install render 
-RUN pip install render_template
 EXPOSE 8080
 ENTRYPOINT ["python"]
 CMD ["app.py"]
