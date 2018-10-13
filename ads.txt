@@ -1,0 +1,10 @@
+return
+Click on orders and find return option
+replace
+Click on orders and find replace option
+refund
+Click on orders and find refund option
+customer care
+1800-208-9898
+recover my account
+www.flipkart.com->login->enter id->forget->enter OTP->click login
